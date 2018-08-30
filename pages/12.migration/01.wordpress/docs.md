@@ -3,7 +3,7 @@ title: WordPress
 taxonomy:
     category: docs
 ---
-
+IMPORTANT! The plug-in has been withdrawn - DELETE THIS PAGE!!
 To export your WordPress Site (even multi language based on qTranslate) into a flat file structure compatible with Grav start with the WordPress Plugin "WP2Grav", which you can install into your WordPress system:
 
 Go to your WordPress Admin > Plugins > Search for "Wp2Grav"
